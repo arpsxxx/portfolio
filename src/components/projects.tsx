@@ -9,16 +9,16 @@ const projects = [
     description:
       "A bold personal portfolio built with Next.js, Tailwind CSS, shadcn/ui, and Framer Motion.",
     tech: ["Next.js", "Tailwind", "shadcn", "Framer Motion"],
-    live: "#",
-    github: "#",
+    live: "https://portfolio-six-chi-63.vercel.app/",
+    github: "https://github.com/arpsxxx/portfolio",
   },
   {
     title: "Java Console Game",
     description:
       "A programming project focused on game logic, problem solving, and clean Java structure.",
     tech: ["Java", "Game Logic", "OOP"],
-    live: "#",
-    github: "#",
+    live: "https://portfolio-six-chi-63.vercel.app/",
+    github: "https://github.com/arpsxxx/portfolio",
   },
   {
     title: "Cybersecurity / Wireshark Project",
