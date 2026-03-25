@@ -6,7 +6,7 @@ import { ArrowRight, Link, Briefcase, Mail } from "lucide-react"
 
 export default function Hero() {
   return (
-    <section className="relative flex min-h-screen items-center justify-center px-6">
+    <section id="about" className="relative flex min-h-screen items-center justify-center px-6">
       <div className="mx-auto grid max-w-7xl items-center gap-14 lg:grid-cols-[1.1fr_0.9fr]">
         
         {/* LEFT SIDE */}
